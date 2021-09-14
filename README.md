@@ -18,4 +18,4 @@ print("Hello Rexburg")
 
 [Python Homepage](python.org)
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.PNG)
