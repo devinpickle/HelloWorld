@@ -1,10 +1,15 @@
 # Hello World Demo
 
-This is my **hello world demo** software
+This is my **hello world demo** software. It displays two words: Hello world.
 
-## Tools
+This software was created to get practice using git and publishing to GitHub.
 
-* Python
+## Demo Video
+Youtube: https://youtu.be/nVTN2bqsnlw
+
+## Development Environment/Tools
+
+* Python3
 * Visual Studio Code
 * Git
 
@@ -19,3 +24,6 @@ print("Hello Rexburg")
 [Python Homepage](python.org)
 
 ![screenshot](screenshot.PNG)
+
+## Useful Websites
+GitHub: https://github.com/devinpickle/HelloWorld.git
